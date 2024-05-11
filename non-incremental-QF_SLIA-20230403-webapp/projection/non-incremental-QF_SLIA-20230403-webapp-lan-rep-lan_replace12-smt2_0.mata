@@ -1,2 +1,0 @@
-@NFT-explicit
-%Alphabet-auto
