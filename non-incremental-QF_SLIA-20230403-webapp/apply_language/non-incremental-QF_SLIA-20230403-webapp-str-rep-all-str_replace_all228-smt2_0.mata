@@ -1,12 +1,11 @@
 @NFT-explicit
 %Alphabet-auto
 %Initial q0
-%Final q21
-%Levels q0:0 q1:1 q2:1 q3:1 q4:1 q5:1 q6:1 q7:1 q8:1 q9:1 q10:0 q11:1 q12:1 q13:1 q14:1 q15:1 q16:1 q17:1 q18:1 q19:1 q20:1 q21:0 q22:1 q23:1 q24:1 q25:1 q26:1 q27:1 q28:1 q29:1 q30:1 q31:1
+%Final q0
+%Levels q0:0 q1:1 q2:1 q3:1 q4:1 q5:1 q6:1 q7:1 q8:1 q9:1
 %LevelsCnt 2
 q0 34 q1
 q0 39 q2
-q0 39 q11
 q0 47 q3
 q0 50 q4
 q0 55 q5
@@ -23,45 +22,6 @@ q6 59 q0
 q7 92 q0
 q8 120 q0
 q9 196608 q0
-q10 34 q12
-q10 39 q13
-q10 39 q22
-q10 47 q14
-q10 50 q15
-q10 55 q16
-q10 59 q17
-q10 92 q18
-q10 120 q19
-q10 196608 q20
-q11 39 q10
-q12 34 q10
-q13 39 q10
-q14 47 q10
-q15 50 q10
-q16 55 q10
-q17 59 q10
-q18 92 q10
-q19 120 q10
-q20 196608 q10
-q21 34 q23
-q21 39 q24
-q21 47 q25
-q21 50 q26
-q21 55 q27
-q21 59 q28
-q21 92 q29
-q21 120 q30
-q21 196608 q31
-q22 39 q21
-q23 34 q21
-q24 39 q21
-q25 47 q21
-q26 50 q21
-q27 55 q21
-q28 59 q21
-q29 92 q21
-q30 120 q21
-q31 196608 q21
 @NFT-explicit
 %Alphabet-auto
 %Initial q0
